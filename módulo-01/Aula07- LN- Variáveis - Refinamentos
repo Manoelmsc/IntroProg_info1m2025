@@ -1,2 +1,204 @@
 
-oi
+--> Adição <--
+
+Passo a passo: 
+  (1) identificar quais são as entradas de dados (informações que serão passadas para a gente / o programa);
+  (2) identificar quais são as saídas de dados (informações que o nosso programa / algoritmo irá apresentar para o usuário); e
+  (3) Realizar o processamento (pensar em como a entrada de dados precisa ser processada para emitir a saída desejada).
+
+Q1 - Escreva um algoritmo usando linguagem natural que calcule a soma de dois números inteiros.
+
+    Passo a passo: 
+    (1) Entrada: dois números inteiros.
+    (2) Saída: NADA.
+    (3) Processamento: cálculo da soma destes dois números inteiros (1).
+
+    1. Leia / Pegue os valores desses dois números;
+    2. O resultado será a soma desses dois números;
+
+Q2 - Escreva um algoritmo usando linguagem natural que calcule a soma de dois números inteiros e mostre o resultado.
+   
+    Passo a passo: 
+    (1) Entrada: dois números inteiros.
+    (2) Saída: Resultado da soma destes dois números inteiros.
+    (3) Processamento: cálculo da soma destes dois números inteiros (1).
+
+    1. Leia / Pegue os valores desses dois números;
+    2. O resultado será a soma desses dois números;
+    3. Mostre o resultado desta soma.
+
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+     calcule a soma destes números e mostre o resultado.
+    
+    Passo a passo: 
+    (1) Entrada: dois números inteiros 'a' e 'b'.
+    (2) Saída: Resultado da soma de 'a' mais 'b'.
+    (3) Processamento: cálculo da soma de 'a' mais 'b'.
+    
+    1. Leia os valores de 'a' e 'b';
+    2. O resultado será a soma de 'a' mais 'b';
+    3. Mostre o resultado desta soma.
+
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] + [b];
+    3. Mostre o [resultado].
+
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] + [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
+
+--> Subtração <--
+
+Passo a passo: 
+  (1) identificar quais são as entradas de dados (informações que serão passadas para a gente / o programa);
+  (2) identificar quais são as saídas de dados (informações que o nosso programa / algoritmo irá apresentar para o usuário); e
+  (3) Realizar o processamento (pensar em como a entrada de dados precisa ser processada para emitir a saída desejada).
+
+Q1 - Escreva um algoritmo usando linguagem natural que calcule a subtração de dois números inteiros.
+
+    Passo a passo: 
+    (1) Entrada: dois números inteiros.
+    (2) Saída: NADA.
+    (3) Processamento: cálculo da subtração destes dois números inteiros (1).
+
+    1. Leia / Pegue os valores desses dois números;
+    2. O resultado será a subtração destes dois valores;
+
+Q2 - Escreva um algoritmo usando linguagem natural que calcule a subtração de dois números inteiros e mostre o resultado da operação.
+   
+    Passo a passo: 
+    (1) Entrada: dois números inteiros.
+    (2) Saída: Resultado da subtração destes dois números inteiros.
+    (3) Processamento: cálculo da diferença destes dois números inteiros (1).
+
+    1. Leia / Pegue os valores desses dois números;
+    2. O resultado será a subtração desses dois números;
+    3. Mostre o resultado desta diferença.
+
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+     calcule a diferença destes números e mostre o resultado.
+    
+    Passo a passo: 
+    (1) Entrada: dois números inteiros 'a' e 'b'.
+    (2) Saída: Resultado da subtração de 'a' e 'b'.
+    (3) Processamento: cálculo da diferença de 'a' e 'b'.
+    
+    1. Leia os valores de 'a' e 'b';
+    2. O resultado será a subtração de 'a' e 'b';
+    3. Mostre o resultado desta diferença.
+
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] - [b];
+    3. Mostre o [resultado].
+
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] - [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
+
+--> Multiplicação <--
+
+Passo a passo: 
+  (1) identificar quais são as entradas de dados (informações que serão passadas para a gente / o programa);
+  (2) identificar quais são as saídas de dados (informações que o nosso programa / algoritmo irá apresentar para o usuário); e
+  (3) Realizar o processamento (pensar em como a entrada de dados precisa ser processada para emitir a saída desejada).
+
+Q1 - Escreva um algoritmo usando linguagem natural que calcule o produto entre dois números inteiros.
+
+    Passo a passo: 
+    (1) Entrada: dois números inteiros.
+    (2) Saída: NADA.
+    (3) Processamento: cálculo do produto destes dois números inteiros (1).
+
+    1. Leia / Pegue os valores desses dois números;
+    2. O resultado será o produto destes dois valores;
+
+Q2 - Escreva um algoritmo usando linguagem natural que calcule o produto de dois números inteiros e mostre o resultado da operação.
+   
+    Passo a passo: 
+    (1) Entrada: dois números inteiros.
+    (2) Saída: Resultado do produto destes dois números inteiros.
+    (3) Processamento: cálculo da multiplicação destes dois números inteiros (1).
+
+    1. Leia / Pegue os valores desses dois números;
+    2. O resultado será a multiplicação desses dois números;
+    3. Mostre o resultado deste produto entre os dois valores lidos (1).
+
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+     calcule o produto destes números e mostre o resultado.
+    
+    Passo a passo: 
+    (1) Entrada: dois números inteiros 'a' e 'b'.
+    (2) Saída: Resultado do produto de 'a' e 'b'.
+    (3) Processamento: cálculo do produto de 'a' e 'b'.
+    
+    1. Leia os valores de 'a' e 'b';
+    2. O resultado será o produto  de 'a' e 'b';
+    3. Mostre o resultado desta multiplicação.
+
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] * [b];
+    3. Mostre o [resultado].
+
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] * [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
+
+--> Divisão <--
+
+Passo a passo: 
+  (1) identificar quais são as entradas de dados (informações que serão passadas para a gente / o programa);
+  (2) identificar quais são as saídas de dados (informações que o nosso programa / algoritmo irá apresentar para o usuário); e
+  (3) Realizar o processamento (pensar em como a entrada de dados precisa ser processada para emitir a saída desejada).
+
+Q1 - Escreva um algoritmo usando linguagem natural que calcule a divisão entre dois números inteiros.
+
+    Passo a passo: 
+    (1) Entrada: dois números inteiros.
+    (2) Saída: NADA.
+    (3) Processamento: cálculo da divisão destes dois números inteiros (1).
+
+    1. Leia / Pegue os valores desses dois números;
+    2. O resultado será a razão destes dois valores;
+
+Q2 - Escreva um algoritmo usando linguagem natural que calcule a divisão de dois números inteiros e mostre o resultado da operação.
+   
+    Passo a passo: 
+    (1) Entrada: dois números inteiros.
+    (2) Saída: Resultado da divisão destes dois números inteiros.
+    (3) Processamento: cálculo da divisãp destes dois números inteiros (1).
+
+    1. Leia / Pegue os valores desses dois números;
+    2. O resultado será a divisão desses dois números;
+    3. Mostre o resultado desta divisão entre os dois valores lidos (1).
+
+Q3 - Escreva um algoritmo usando linguagem natural que leia dois números inteiros 'a' e 'b',
+     calcule a divisão destes números e mostre o resultado.
+    
+    Passo a passo: 
+    (1) Entrada: dois números inteiros 'a' e 'b'.
+    (2) Saída: razão de 'a' e 'b'.
+    (3) Processamento: cálculo da divisão dos valores 'a' e 'b'.
+    
+    1. Leia os valores de 'a' e 'b';
+    2. O resultado será a divisão entre 'a' e 'b';
+    3. Mostre o resultado desta divisão.
+
+    Refinamento:
+    1. Leia os valores de [a] e [b];
+    2. O [resultado] = [a] / [b];
+    3. Mostre o [resultado].
+
+    Refinamento:
+    1. Leia [a];            read [a]            scan [b]              in [a]
+    1. Leia [b];
+    2. [resultado] = [a] / [b];
+    3. Mostre [resultado].          show [resultado]    print [resultado]      out [resultado]
